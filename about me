@@ -1,0 +1,67 @@
+<html>
+
+<head>
+<title> Welcome to my Page! Enjoy. NRN! </title>
+
+<style>
+h1 {font-family:verdana; font-size:200%;text-align:center;}
+h2 {font-family:verdana; font-size:150%;text-align:center;}
+h3 {font-family:verdana; font-size:125%;}
+p {font-family:verdana;font-size:100%;}
+li {font-family:verdana;font-size:100%}
+a {font-family:verdana;font-size:}100%;}
+</style>
+
+<body>
+<h1> Noah Goad| Student Athlete</h1>
+<h2>WRA Fab Class 2017</h1>
+<p>
+<hr style="width:50%">
+</p>
+<H3> About Me: My name is Noah Goad and i am a sophmore from Hudson, Ohio.  I play hockey and lacrosse for Wesy=tern Reserve Academy, and i also manage field hockey. During my time in this class my goals are to learn the basics of digital engineering and fabrication and also learn how to laser engrave and 3D print. Hope you enjoy this site!
+  
+</p> 
+
+<hr style="width:50%">
+</p>
+
+<H3>Fusion 360</h3>
+<p>
+Type in text here    
+
+</div>
+
+<p>
+
+</p>
+<br>
+ <p>
+<hr style="width:50%">
+</p>
+<H3>Next Section</h3>
+<p>
+ More text here.  
+</p>
+<p>
+<img src="bp1.png"/>
+</p>
+<p>
+<i>Type it here </i>
+</p>
+<br>
+
+</div>
+
+<p>
+<img lax.jpg">
+
+<p>
+<hr style="width:80%">
+</p>
+
+<a href="index.html">Back to index</a>
+
+</body>
+</html>
+
+
